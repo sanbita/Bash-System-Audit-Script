@@ -4,7 +4,7 @@ An interactive **Bash-based system audit tool** designed to perform basic securi
 
 This script is intended for **learning, security auditing, and SOC fundamentals practice**.
 
----
+
 
 ## ✨ Features
 
@@ -24,7 +24,7 @@ This script is intended for **learning, security auditing, and SOC fundamentals 
   - `/etc/passwd`
   - `/etc/sudoers`
 
----
+
 
 ## 🛠️ Requirements
 
@@ -39,7 +39,7 @@ This script is intended for **learning, security auditing, and SOC fundamentals 
 
 (Some checks may require **root privileges** for full visibility.)
 
----
+
 
 ## 🚀 Usage
 
